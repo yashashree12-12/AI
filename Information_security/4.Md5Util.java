@@ -32,4 +32,6 @@ public class Md5Util {
         System.out.println("MD5   : " + md5(input)); // hello -> 5d41402abc4b2a76b9719d911017c592
     }
 }
+//javac Md5Util.java
+
 
