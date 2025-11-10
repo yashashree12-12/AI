@@ -39,3 +39,15 @@ print(f"Encrypted message: {C}")
 # Step 9: Decryption
 M = pow(C, d, n)
 print(f"Decrypted message: {M}")
+
+# Enter a prime number p: 11
+# Enter a prime number q: 13
+# n = 143
+# e = 7
+# d = 103
+# Public key: (7, 143)
+# Private key: (103, 143)
+# Enter the message (as a number): 9
+# Original message: 9
+# Encrypted message: 48
+# Decrypted message: 9
